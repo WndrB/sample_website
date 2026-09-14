@@ -7,3 +7,42 @@
 a {
   text-decoration: none;
 }
+.image-link {
+  text-decoration: none;
+}
+.celd-padding {
+  padding: 10px;
+}
+.header-moby {
+  text-align: center;
+  margin: 0 0 80px;
+}
+
+.img-moby {
+  float: left;
+  margin: 0 40px 0 0;
+}
+.img-whales {
+  display: block;
+  margin: 0 auto;
+}
+.page-whales {
+  width: 500px;
+  margin: 20px auto;
+  padding: 30px;
+  background-color: #fafafa;
+}
+.quote {
+  font-style: italic;
+  font-size: 20px;
+}
+.span-quote {
+  font-style: normal;
+  font-size: 24px;
+  font-weight: bold;
+  color: #ff0000;
+}
+.quote-index {
+  padding: 2px 20px;
+  background: #fafafa;
+}
